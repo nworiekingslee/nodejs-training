@@ -1,3 +1,3 @@
 const log = require("./logger");
 
-log("H money");
+log("Hello Kingi");

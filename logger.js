@@ -1,4 +1,4 @@
-var url = "https://www/mylogger.io/log";
+var url = "https://www.github.com/SamChus";
 
 function log(message) {
   // Send an http request
